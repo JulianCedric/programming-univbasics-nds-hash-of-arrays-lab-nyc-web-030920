@@ -10,8 +10,13 @@ def add_character(show, name)
   # Should return the array of the 'show' argument
   
   
+<<<<<<< HEAD
   BASE_HOA[show] << name   
   
   BASE_HOA[show]
+=======
+  
+  
+>>>>>>> cc7495c4f5f6ff716542c0a856633e34eb3f4017
   
 end
